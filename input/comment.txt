@@ -1,0 +1,1 @@
+<row  Id="8189677"  PostId="6881722"  Text="Have  you  looked  at  Hadoop?" CreationDate="2011-07-30T07:29:33.343" UserId="831878" />
